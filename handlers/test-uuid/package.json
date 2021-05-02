@@ -1,0 +1,14 @@
+{
+  "name": "test-uuid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Initech Global <balu.vyamajala@initechglobal.com>",
+  "license": "ISC",
+  "dependencies": {
+    "uuid-random": "^1.3.2"
+  }
+}
